@@ -1,2 +1,1 @@
-# hse22_project
 
