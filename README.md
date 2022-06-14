@@ -82,4 +82,4 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/173687394-ce087123-5fac-40aa-8151-c43ff1c99e38.png)
 
-Файл I
+Файл ipynb с кодом также прилогается.
