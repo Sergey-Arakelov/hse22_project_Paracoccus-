@@ -57,3 +57,28 @@
 | Cluster 6| 5 | WP_028719775.1,	WP_028719775.1,	WP_114076144.1,	WP_135312821.1,	WP_024843127.1 | DUF465 domain-containing protein | 9 (5 в промоторе) | См. ниже |
 | Cluster 7| 5 | WP_028720152.1,	WP_028720152.1,	WP_114076332.1,	WP_135312464.1,	WP_024843319.1 | peptidylprolyl isomerase | 19 (5 в промоторе) | См. ниже |
 | Cluster 8| 5 | WP_028718321.1,	WP_080621994.1,	WP_114075408.1,	WP_135312130.1,	WP_024843352.1 | heme o synthase | 22	 (5 в промоторе) | См. ниже |
+
+# Множественное белковое выравнивание
+
+Результаты выравнивания для восьми кластеров см. в папке `alignments`
+
+# Визуализация расположения участков Z-DNA
+
+Было выбрано 8 кластеров (порядок в таблице). Для каждого гена в одном кластере приведены значения Z-DNA score:
+
+![image](https://user-images.githubusercontent.com/93254228/173687114-3bf9ddcf-c20d-4787-adfa-c03e5128f910.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173687129-767f0150-de45-4887-b3cc-dcd57e65080c.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173687158-b6015306-9046-4496-8ecf-7fa62e924aa9.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173687188-245e9a7e-7653-4728-8165-302ad7192019.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173687207-1074a244-e2bb-4d8b-b975-9cce0d4057db.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173687238-5a524d77-e517-47b5-8dc6-c3d563c3d8ab.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173687269-79033ad4-4773-491e-92d5-6d5792dc6fd8.png)
+
+
+
