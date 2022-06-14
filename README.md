@@ -10,3 +10,6 @@ coordinates - предсказания участков Z-DNA для 5 выбр�
 
 Ссылка на колаб: https://colab.research.google.com/drive/1eWhnvPpf0wQ-EaBV-70bckaTlzHpvpBk?usp=sharing
 
+Таксон: Alphaproteobacteria
+
+Вид: Paracoccus 
