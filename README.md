@@ -25,3 +25,15 @@
 | Paracoccus yeei| 1 (+6 плазмид)  | 3588087 (хромосома) + 327671(пл.1) + 225271(пл.2) + 167927(пл.3) + 172023(пл.4) + 114679(пл.5) + 24567(пл.6)  | 4393 | 4111523 | 88.97% | 4620225 | 65631; 635310  |
 
 Координаты участков Z-DNA для 5 выбранных геномов находятся в папке `coordinates` (1 столбец - начало участка, 2 - конец, 3 - zh-score)
+
+# Гистограммы значений ZH-score
+
+![image](https://user-images.githubusercontent.com/93254228/173683903-e8f3886d-2498-4871-81b8-f68eb5c8ca10.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173683933-3e71e518-2734-473f-96da-964854543299.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173683956-6cde75b2-a145-405f-89cb-2d79a7db8c05.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173683991-2daf431a-bea5-4c4f-b687-71dc31f68b31.png)
+
+![image](https://user-images.githubusercontent.com/93254228/173684007-4e828f08-cf0c-457f-ac26-539f375ef1eb.png)
