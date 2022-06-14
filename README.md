@@ -8,4 +8,5 @@ alignments - все белковые выравнивания для выбра�
 
 coordinates - предсказания участков Z-DNA для 5 выбранных геномов
 
+Ссылка на колаб: https://colab.research.google.com/drive/1eWhnvPpf0wQ-EaBV-70bckaTlzHpvpBk?usp=sharing
 
