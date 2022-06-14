@@ -44,3 +44,16 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/173684337-9fc68996-442d-4c90-9b4d-af0fb986ed63.png)
 Всего 3756 кластеров.
+
+# Информация о кластерах
+
+| **Номер кластера** | **Кол-во генов** | **Названия генов** | **Функция генов** | **Z-ДНК и их расположение** | **Z-DNA score** | 
+| ------------- | ------------- |--------------------| ---- | --- | ----- |
+| Cluster 1| 5| WP_099648568.1	WP_080621616.1	WP_114076729.1	WP_228461422.1	WP_167521775.1 |zinc-binding dehydrogenase | 7 (5 в промоторе) | См. ниже | 
+| Cluster 2| 5 | WP_036761720.1	WP_112887316.1	WP_241963421.1	WP_135313141.1	WP_208852026.1 | leucine--tRNA ligase | 20 (5 в промоторе) | См. ниже | 
+| Cluster 3| 5 | WP_099649861.1	WP_028717671.1	WP_241963419.1	WP_135311757.1	WP_024845674.1 | NADH-quinone oxidoreductase subunit NuoH | 6 (5 в промоторе) | См. ниже |
+| Cluster 4| 5 | WP_099648227.1	WP_028718530.1	WP_114075728.1	WP_135313748.1	WP_024844026.1 | 30S ribosomal protein S8 |  6 (5 в промоторе) | См. ниже |
+| Cluster 5| 5 | WP_028718016.1	WP_028718016.1	WP_114076211.1	WP_135312084.1	WP_024845795.1 | DNA-directed RNA polymerase subunit beta | 29 (5 в промоторе) | См. ниже |
+| Cluster 6| 5 | WP_028719775.1	WP_028719775.1	WP_114076144.1	WP_135312821.1	WP_024843127.1 | NADH-quinone oxidoreductase subunit NuoN | 2 (все в промоторе) | См. ниже |
+| Cluster 7| 5 | WP_028720152.1	WP_028720152.1	WP_114076332.1	WP_135312464.1	WP_024843319.1 | lytic transglycosylase domain-containing protein | 11 (1 в промоторе) | См. ниже |
+| Cluster 8| 5 | WP_028718321.1	WP_080621994.1	WP_114075408.1	WP_135312130.1	WP_024843352.1 | lytic transglycosylase domain-containing protein | 11 (1 в промоторе) | См. ниже |
