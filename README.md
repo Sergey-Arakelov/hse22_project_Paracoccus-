@@ -37,3 +37,8 @@
 ![image](https://user-images.githubusercontent.com/93254228/173683991-2daf431a-bea5-4c4f-b687-71dc31f68b31.png)
 
 ![image](https://user-images.githubusercontent.com/93254228/173684007-4e828f08-cf0c-457f-ac26-539f375ef1eb.png)
+
+# Распределение участков Z-ДНК
+
+![image](https://user-images.githubusercontent.com/93254228/173684159-0d79d8f5-6091-4cbe-8582-23695b6fa923.png)
+
