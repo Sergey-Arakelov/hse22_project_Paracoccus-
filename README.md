@@ -44,4 +44,5 @@
 
 # Кластеры белков
 
-![image](https://user-images.githubusercontent.com/93254228/173684261-b82e76f4-a886-4e52-94c2-d190208d1d58.png)
+![image](https://user-images.githubusercontent.com/93254228/173684337-9fc68996-442d-4c90-9b4d-af0fb986ed63.png)
+Всего 3756 кластеров.
