@@ -42,3 +42,6 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/173684159-0d79d8f5-6091-4cbe-8582-23695b6fa923.png)
 
+# Кластеры белков
+
+![image](https://user-images.githubusercontent.com/93254228/173684261-b82e76f4-a886-4e52-94c2-d190208d1d58.png)
